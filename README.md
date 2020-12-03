@@ -1,8 +1,8 @@
 # users_blogs
  Users blogs service
-Python 3.8, Django 3.1.1, SQLite3
+Python 3.8, Django 3.1.1, SQLite3.
 Requirements.txt прилагается.
-Папку проекта расположить  заранее подготовленное виртуальное окружение Python.
+Папку проекта расположить в заранее подготовленное виртуальное окружение Python.
 Для запуска приложения выполнить команду:
 python manage.py runserver.
 Вход в приложение:
